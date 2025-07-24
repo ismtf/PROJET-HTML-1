@@ -1,0 +1,13 @@
+¨<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Projet JavaScript - Ismaël</title>
+</head>
+<body>
+  <h1>Projet JavaScript - GoMyCode</h1>
+  <p>Ouvre la console (F12) pour tester les fonctions</p>
+
+  <script src="javascript2.js"></script>
+</body>
+</html>
